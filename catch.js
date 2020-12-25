@@ -2,7 +2,7 @@ const evilButton = document.getElementById('evil-button')
 const OFFSET = 100
 
 evilButton.addEventListener('click', () => {
-alert('WOW!That Was Impressive!')
+alert('Im pretty sure youre playing on a phone! Switch to a laptop now!!!')
 window.close()
 })
 
